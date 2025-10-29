@@ -8,6 +8,7 @@ A client-server application for downloading Steam game content using depot keys 
 - Searches for games using Steam App IDs
 - Displays game information and icons
 - Manages depot keys and manifest files
+- Downloads game content
 - Sends download information to connected clients
 
 ### Client Application
