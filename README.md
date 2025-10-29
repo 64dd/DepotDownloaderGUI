@@ -16,7 +16,8 @@ A client-server application for downloading Steam game content using depot keys 
 - Downloads game content using the provided information
 
 ## Requirements
-- .NET 8.0 or later
+- .NET 8.0
+- .NET 9.0
 - Windows operating system
 - DepotDownloaderMod.exe in the same directory as the applications
 
