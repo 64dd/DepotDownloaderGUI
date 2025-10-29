@@ -29,11 +29,12 @@ A client-server application for downloading Steam game content using depot keys 
 
 ## Usage
 
-### Server
+### GUI
 1. Run DepotDownloaderGUI.exe
 2. Enter a Steam App ID and click Search
 3. Click "Get depot keys" to download the necessary keys and manifests
-4. Click "Download" and select "Upload to Client" to send the information to a connected client
+4. Click "Download" and fill out depot id (for windows games it's just appid but ending number 0 should be 1
+5. For sending to the client Click "Download" and select "Upload to Client" to send the information to a connected client
 
 ### Client
 1. Run DepotDownloaderClient.exe
